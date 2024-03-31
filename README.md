@@ -1,10 +1,10 @@
-## Data Science Examples Repository
+## Data Mining Examples Repository
 
-Welcome to the Data Science Examples Repository! This repository serves as a collection of Python scripts and examples for fundamental data analysis techniques. Whether you're a beginner exploring the basics or an experienced practitioner seeking reference materials, this repository offers a variety of examples to support your learning journey.
+Welcome to the Data Mining Examples Repository! This repository serves as a collection of Python scripts and examples for fundamental data analysis techniques. Whether you're a beginner exploring the basics or an experienced practitioner seeking reference materials, this repository offers a variety of examples to support your learning journey.
 
 ## Introduction
 
-The Data Science Examples Repository contains a diverse set of Python scripts demonstrating various data analysis techniques. Each example provides detailed explanations and code snippets, making it an invaluable resource for learning and reference purposes. These examples are freely available for both personal studying and public use, serving as foundational tools for data analysis tasks.
+The Data Mining Examples Repository contains a diverse set of Python scripts demonstrating various data analysis techniques. Each example provides detailed explanations and code snippets, making it an invaluable resource for learning and reference purposes. These examples are freely available for both personal studying and public use, serving as foundational tools for data analysis tasks.
 Summaries of each example are included within the description of each example file. :)
 
 
